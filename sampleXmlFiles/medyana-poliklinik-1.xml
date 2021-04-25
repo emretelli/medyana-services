@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+    <patient>
+        <polycliniccode>TEST</polycliniccode>
+        <doctorregistrycode>251900</doctorregistrycode>
+				<doctorname>xml test</doctorname>
+				<doctorsurname>xml test</doctorsurname>
+				<name>xml patient test</name>
+				<surname>xml patient test</surname>
+				<dateofbirth>02.02.1995</dateofbirth>
+				<gender>1</gender>
+				<citizenshipnumber>981771145</citizenshipnumber>
+				<telephonenumber>0591019111</telephonenumber>
+				<visitationdate>01.01.2021 16:15</visitationdate>
+				<nextvisitationdate>02.05.2021 12:00</nextvisitationdate>
+				<doctornote>xml note</doctornote>
+    </patient>
+	<patient>
+        <polycliniccode>WAR1</polycliniccode>
+        <doctorregistrycode>251901</doctorregistrycode>
+				<doctorname>xml test 1</doctorname>
+				<doctorsurname>xml test 1</doctorsurname>
+				<name>xml patient test</name>
+				<surname>xml patient test</surname>
+				<dateofbirth>01.09.1950</dateofbirth>
+				<gender>1</gender>
+				<citizenshipnumber>981771145</citizenshipnumber>
+				<telephonenumber>0591019111</telephonenumber>
+				<visitationdate>10.12.2020 00:00</visitationdate>
+				<nextvisitationdate>10.06.2020 13:00</nextvisitationdate>
+				<doctornote>xml note</doctornote>
+    </patient>
+</patients>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+    <patient>
+        <polycliniccode>DENE</polycliniccode>
+        <doctorregistrycode>251900</doctorregistrycode>
+				<doctorname>xml test</doctorname>
+				<doctorsurname>xml test</doctorsurname>
+				<name>xml patient test</name>
+				<surname>xml patient test</surname>
+				<dateofbirth>01.01.1987</dateofbirth>
+				<gender>1</gender>
+				<citizenshipnumber>981771145</citizenshipnumber>
+				<telephonenumber>0591019111</telephonenumber>
+				<visitationdate>25.10.2020 12:00</visitationdate>
+				<nextvisitationdate>15.08.2022 13:00</nextvisitationdate>
+				<doctornote>xml note</doctornote>
+    </patient>
+</patients>
